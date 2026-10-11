@@ -1,0 +1,6 @@
+{
+  "name": "Popular Dineout Cafe & Restaurant",
+  "description": "Premium QR-based digital restaurant menu for Popular Dineout Cafe & Restaurant in Kankarbagh, Patna. Browse 14 sections of authentic North Indian, Chinese, Tandoor, and Cafe delights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
